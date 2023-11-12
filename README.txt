@@ -30,5 +30,6 @@ Juniper - makes it possible to write GraphQL servers in Rust that are type-safe 
 
 Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust
 
-
+Current link for full db stack:
+https://github.com/lucperkins/rust-graphql-juniper-actix-diesel-postgres
 
