@@ -14,6 +14,8 @@ C-Runtimes - I'm assuming they are there but C/C++ is really not my tooling of c
 
 =- 3rd party Libraries or Modules -=
 
+Git - is really everything 
+
 Tensorflow - An end-to-end open source machine learning platform for everyone
 
 Torch (pyTorch) - an alternative to tensorflow 
