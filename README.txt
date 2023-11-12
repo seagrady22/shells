@@ -28,10 +28,12 @@ Diesel - extensible query builder for Rust
 
 Postgresql - been using pgsql for 7 or so years so sticking with this 
 
+[Rust dependencies]
+
 Juniper - makes it possible to write GraphQL servers in Rust that are type-safe and blazingly fast.
 
 Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust
 
-Current link for full db stack:
+Current link for full db stack example:
 https://github.com/lucperkins/rust-graphql-juniper-actix-diesel-postgres
 
